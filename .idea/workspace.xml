@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="01816bfe-cade-4728-8608-642d3588dc6e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/css/includes/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/includes/_footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/includes/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/includes/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/includes/_modal.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/includes/_pages.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/includes/_reset.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-Black.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-BlackItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-BoldItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-Heavy.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-HeavyItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-Italic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-Light.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-LightItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-Medium.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-MediumItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-Roman.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-Thin.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-ThinItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-UltraLight.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-UltraLightItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/brand.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/category.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/product.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/lazyImage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/swipers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/telInput.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/libraries/kiranosend/error.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/libraries/kiranosend/kiranosend.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/libraries/kiranosend/success.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/includes/cardButtons.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/includes/consult.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/includes/header/lang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/includes/header/navigation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/includes/mainSectionTitle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/includes/swiperButtons.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/partials/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/global.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/global.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/global.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/global.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/includes/_default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/includes/_default.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/includes/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/includes/_header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/includes/_variables.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/includes/_animations.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/includes/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/includes/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/includes/footer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/includes/footer.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/includes/footer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/includes/head.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/includes/head.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/includes/head.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-Black.eot" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-Black.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-Black.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-Black.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-Black.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-Black.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-BlackItalic.eot" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-BlackItalic.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-BlackItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-BlackItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-BlackItalic.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-BlackItalic.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-Bold.eot" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-Bold.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-Bold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-Bold.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-Bold.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-Bold.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-BoldItalic.eot" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-BoldItalic.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-BoldItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-BoldItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-BoldItalic.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-BoldItalic.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-Heavy.eot" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-Heavy.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-Heavy.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-Heavy.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-Heavy.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-Heavy.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-HeavyItalic.eot" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-HeavyItalic.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-HeavyItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-HeavyItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-HeavyItalic.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-HeavyItalic.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-Italic.eot" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-Italic.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-Italic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-Italic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-Italic.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-Italic.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-Light.eot" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-Light.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-Light.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-Light.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-Light.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-Light.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-LightItalic.eot" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-LightItalic.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-LightItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-LightItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-LightItalic.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-LightItalic.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-Medium.eot" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-Medium.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-Medium.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-Medium.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-Medium.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-Medium.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-MediumItalic.eot" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-MediumItalic.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-MediumItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-MediumItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-MediumItalic.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-MediumItalic.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-Roman.eot" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-Roman.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-Roman.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-Roman.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-Roman.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-Roman.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-Thin.eot" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-Thin.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-Thin.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-Thin.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-Thin.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-Thin.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-ThinItalic.eot" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-ThinItalic.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-ThinItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-ThinItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-ThinItalic.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-ThinItalic.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-UltraLight.eot" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-UltraLight.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-UltraLight.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-UltraLight.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-UltraLight.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-UltraLight.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-UltraLightItalic.eot" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-UltraLightItalic.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-UltraLightItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-UltraLightItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-UltraLightItalic.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/HelveticaNeueCyr-UltraLightItalic.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/sprite.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icons/sprite.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/index/Bestseller1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/index/Bestseller2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/index/Bestseller3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/index/Bestseller4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/index/BrandAveda.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/index/BrandDior.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/index/BrandLancome.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/index/BrandMac.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/index/BrandSaint.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/index/BrandShi.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/index/CatalogAromas.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/index/CatalogBodyCare.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/index/CatalogDermo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/index/CatalogHair.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/index/CatalogMask.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/index/CatalogParfume.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/index/Kissbuttonslips.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/index/Levender.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/index/MainBrandNew.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/index/MainEfitOil.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/index/Mmel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/index/NewLevender.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/index/NewLips.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/index/NewMakeOver.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/index/NewMmel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/index/News1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/index/News2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/index/News3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/index/News4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/index/makeofever.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/swiper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/libraries/phonemask/phonemask.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/libraries/phonemask/phonemask.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/libraries/swiper/swiper-bundle.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/libraries/swiper/swiper-bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/partials/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/partials/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/partials/head.php" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="D:\Programs\OpenServer\modules\php\PHP_8.0\php.exe" />
+  <component name="ProjectId" id="2egC4j8EwfCNSJpIcEsPkXpf2so" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/Programs/OpenServer/domains/mialine",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Programs\OpenServer\domains\mialine" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01816bfe-cade-4728-8608-642d3588dc6e" name="Changes" comment="" />
+      <created>1712316644342</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712316644342</updated>
+      <workItem from="1712316645829" duration="134000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

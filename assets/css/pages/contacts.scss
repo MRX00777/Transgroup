@@ -1,0 +1,423 @@
+.header {
+    background: var(--black) !important;
+    color: var(--white);
+}
+
+body {
+    background: var(--white);
+    color: var(--black);
+}
+
+.contacts {
+    margin-top: 40px;
+    margin-bottom: 60px;
+
+    &-title {
+        color: var(--dark);
+        font-size: 55px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 130%;
+        margin-bottom: 45px;
+        overflow-wrap: break-word;
+        text-align: center;
+    }
+
+    &__content {
+
+        &__form {
+
+            &-title {
+                color: #2B2B2B;
+                font-family: Manrope;
+                font-size: 35px;
+                font-style: normal;
+                font-weight: 500;
+                line-height: 130%;
+                margin-bottom: 32px;
+            }
+
+            .app__content {
+                width: 100%;
+
+                &__row {
+                    width: 100%;
+                    display: flex;
+                    align-items: flex-start;
+                    justify-content: center;
+                    column-gap: 30px;
+
+                    .input {
+                        width: 50%;
+
+                        &__content {
+                            height: 55px;
+                        }
+                    }
+                }
+
+                .input {
+                    display: flex;
+                    flex-direction: column;
+                    gap: 6px;
+                    margin-bottom: 30px;
+
+
+                    label {
+                        color: var(--black);
+                        font-size: 14px;
+                        font-style: normal;
+                        font-weight: 400;
+                        line-height: 150%;
+                    }
+
+                    .input__content {
+                        height: 55px;
+                        border: none;
+                        outline: none;
+
+                        input {
+                            padding: 17px 15px;
+                            border-radius: 0;
+                            width: 100%;
+                            border: 1px solid #F2F2F2;
+                            background: #F7F8FC;
+                            outline: none;
+                            height: 55px;
+
+                            color: var(--black);
+                            font-family: Manrope;
+                            font-size: 14px;
+                            font-style: normal;
+                            font-weight: 500;
+                            line-height: 150%;
+
+                            &::placeholder {
+                                color: #6A8098;
+                            }
+                        }
+
+                        textarea {
+                            padding: 17px 15px;
+                            border-radius: 0;
+                            width: 100%;
+                            border: 1px solid #F2F2F2;
+                            background: #F7F8FC;
+                            outline: none;
+                            display: block;
+                            resize: none;
+                            margin-bottom: 30px;
+
+                            color: var(--black);
+                            font-family: Manrope;
+                            font-size: 14px;
+                            font-style: normal;
+                            font-weight: 500;
+                            line-height: 150%;
+
+                            &::placeholder {
+                                color: #6A8098;
+                            }
+                        }
+                    }
+
+                    p {
+                        color: var(--black);
+                        font-size: 12px;
+                        font-style: normal;
+                        font-weight: 400;
+                        line-height: 150%;
+                    }
+                }
+
+                .button-form {
+                    width: 100%;
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    gap: 2px;
+                    padding: 18px 30px;
+                    background: var(--yellow);
+                    margin-top: 140px;
+                    cursor: pointer;
+                    transition: 300ms;
+
+                    &:hover {
+                        background: #ff9645;
+
+                        svg {
+                            transform: rotateZ(42deg);
+                        }
+                    }
+
+                    p {
+                        color: #FFF;
+                        font-size: 13px;
+                        font-style: normal;
+                        font-weight: 400;
+                        line-height: 120%;
+                        text-transform: uppercase;
+                    }
+
+                    svg {
+                        width: 20px;
+                        height: 20px;
+                        transition: 300ms;
+                    }
+                }
+            }
+        }
+
+        &__adress {
+
+            &-title {
+                color: var(--dark);
+                font-size: 30px;
+                font-style: normal;
+                font-weight: 500;
+                line-height: normal;
+                margin-bottom: 20px;
+            }
+
+            &__info {
+                display: flex;
+                flex-direction: column;
+                gap: 20px;
+                align-items: flex-start;
+                justify-content: center;
+                padding: 20px 0 30px;
+                border-top: 1px #F2F2F2 solid;
+                border-bottom: 1px #F2F2F2 solid;
+                margin-bottom: 20px;
+
+
+                a {
+                    display: flex;
+                    gap: 10px;
+                    align-items: center;
+                    justify-content: flex-start;
+                    cursor: pointer;
+
+                    &:hover {
+                        p {
+                            color: var(--yellow);
+                        }
+                    }
+
+                    svg {
+                        width: 35px;
+                        height: 35px;
+                    }
+
+                    p {
+                        transition: 300ms;
+                        color: var(--dark);
+                        font-size: 18px;
+                        font-style: normal;
+                        font-weight: 500;
+                        line-height: 130%;
+                        overflow-wrap: anywhere;
+                    }
+                }
+            }
+
+            &__networks {
+                display: flex;
+                gap: 30px;
+                align-items: center;
+
+                a {
+                    width: 50px;
+                    height: 50px;
+                    border: 1px solid #2B2B2B;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    transition: 300ms;
+
+                    &:hover{
+                        border: 1px solid var(--yellow);
+
+                        svg{
+                            fill: var(--yellow);
+
+                            path{
+                                fill: var(--yellow);
+                            }
+                        }
+                    }
+
+
+                    svg {
+                        width: 17.894px;
+                        height: 18px;
+
+                        path{
+                            transition: 300ms;
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+}
+
+
+
+@media (max-width: 1400px) {
+    .contacts-title{
+        font-size: 52px;
+    }
+
+    .contacts__content__form-title{
+        font-size: 33px;
+    }
+}
+
+@media (max-width: 1200px) {
+    .contacts-title{
+        font-size: 50px;
+        margin-bottom: 35px;
+    }
+
+    .contacts__content__form-title{
+        font-size: 31px;
+    }
+}
+
+@media (max-width: 1199px) {
+    .contacts__content__form{
+        margin-bottom: 50px;
+    }
+
+    .contacts__content__form-title{
+        text-align: center;
+    }
+}
+
+@media (max-width: 1000px) {
+    .contacts-title{
+        font-size: 48px;
+    }
+
+    .contacts__content__form-title{
+        font-size: 29px;
+    }
+}
+
+@media (max-width: 900px) {
+    .contacts-title{
+        font-size: 46px;
+        margin-bottom: 30px;
+    }
+
+    .contacts__content__form-title{
+        font-size: 27px;
+    }
+}
+
+@media (max-width: 800px) {
+    .contacts-title{
+        font-size: 44px;
+    }
+
+    .contacts__content__form-title{
+        font-size: 25px;
+    }
+}
+
+@media (max-width: 700px) {
+    .contacts-title{
+        font-size: 41px;
+    }
+
+    .contacts__content__form-title{
+        font-size: 23px;
+    }
+
+    .contacts__content__adress-title{
+        font-size: 28px;
+    }
+}
+
+@media (max-width: 620px) {
+    .contacts-title{
+        font-size: 38px;
+        margin-bottom: 25px;
+    }
+
+    .contacts__content__form-title{
+        font-size: 22px;
+    }
+
+    .contacts__content__adress-title{
+        font-size: 26px;
+    }
+
+    .contacts__content__form .app__content__row {
+        flex-direction: column;
+    }
+
+    .contacts__content__form .app__content .input{
+        width: 100%;
+    }
+
+    .contacts__content__adress__info a p{
+        font-size: 17px;
+    }
+
+    .contacts__content__adress__networks a{
+        width: 43px;
+        height: 43px;
+    }
+}
+
+@media (max-width: 520px) {
+    .contacts-title{
+        font-size: 34px;
+    }
+
+    .contacts__content__form-title{
+        font-size: 20px;
+    }
+
+    .contacts__content__adress-title{
+        font-size: 23px;
+    }
+}
+
+@media (max-width: 450px) {
+    .contacts-title{
+        font-size: 30px;
+        margin-bottom: 20px;
+    }
+
+    .contacts__content__form-title{
+        font-size: 18px;
+        margin-bottom: 25px;
+    }
+
+    .contacts__content__adress-title{
+        font-size: 20px;
+        margin-bottom: 25px;
+    }
+
+    .contacts__content__adress__info a p{
+        font-size: 16px;
+    }
+
+    .contacts__content__form {
+        margin-bottom: 45px;
+    }
+
+    .contacts__content__adress__networks {
+        gap: 20px;
+    }
+}
+
+@media (max-width: 400px) {
+    .contacts-title{
+        font-size: 26px;
+    }
+}

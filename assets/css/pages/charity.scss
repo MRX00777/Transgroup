@@ -1,0 +1,21 @@
+.news{
+    margin-top: 50px;
+
+    &-title{
+        text-align: center;
+        overflow-wrap: break-word;
+    }
+}
+
+
+@media (max-width: 800px) {
+    .news{
+        margin-top: 40px;
+    }
+}
+
+@media (max-width: 620px) {
+    .news{
+        margin-top: 30px;
+    }
+}
